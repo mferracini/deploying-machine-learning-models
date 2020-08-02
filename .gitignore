@@ -1,3 +1,6 @@
+### config files
+*.code-workspace
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -93,6 +96,12 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 .spyproject
+
+# notebooks folder 
+notebooks/*
+
+# sandbox folder
+sandboxs/*
 
 # Rope project settings
 .ropeproject
